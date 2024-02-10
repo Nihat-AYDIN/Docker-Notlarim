@@ -2,6 +2,8 @@
   <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Faf3291d4-361a-4ef9-a233-9be9b4312c96%2Fe32bd12f-6ffb-4c5e-a5c2-5a60b95acdce%2Fdocker-svgrepo-com.svg?table=block&id=7666d19c-f4c2-436f-a6cd-f1a1a422379a&spaceId=af3291d4-361a-4ef9-a233-9be9b4312c96&userId=9fdb15a8-c1fc-453f-a243-706bdf4c7682&cache=v2" alt="Docker Logo" width="300" height="300">
 </div>
 
+# Docker Engine Nedir ?
+
 Docker Engine, Docker'ın temel bileşenidir ve Docker'ın çalışmasını sağlayan çekirdek bileşenidir. Docker Engine, Docker container'larını oluşturmak, yönetmek ve çalıştırmak için gerekli olan temel hizmetleri sağlar. Docker Engine, host işletim sistemine kurulan bir yazılım olarak çalışır ve Docker container'larının çalıştığı ortamı yönetir.
 
 Docker Engine, genellikle iki ana bileşen içerir :
