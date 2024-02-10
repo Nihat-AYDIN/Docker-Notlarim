@@ -4,7 +4,7 @@
 
 # Repo Hakkında
 
-Bu repo, Docker öğrenme serüvenimde edindiğim bilgileri paylaşmak amacıyla oluşturuldu. Docker konusunda tam bir uzman değilim, dolayısıyla yazımda bazı hatalar olabilir. Ancak, umarım bu repo, Docker öğrenme sürecinizde size yardımcı olabilir. İçeriği okurken aklınıza takılan veya düzeltmem gereken bir şey varsa, lütfen açıkça belirtin. Keyifli okumalar.
+Bu repo, Docker öğrenme serüvenimde edindiğim bilgileri paylaşmak amacıyla oluşturuldu. Docker konusunda uzman değilim, dolayısıyla yazımda bazı hatalar olabilir. Ancak, umarım bu repo, Docker öğrenme sürecinizde size yardımcı olabilir. İçeriği okurken aklınıza takılan veya düzeltmem gereken bir şey varsa, lütfen açıkça belirtin. Keyifli okumalar.
 # Docker Engine Nedir ?
 
 Docker Engine, Docker'ın temel bileşenidir ve Docker'ın çalışmasını sağlayan çekirdek bileşenidir. Docker Engine, Docker container'larını oluşturmak, yönetmek ve çalıştırmak için gerekli olan temel hizmetleri sağlar. Docker Engine, host işletim sistemine kurulan bir yazılım olarak çalışır ve Docker container'larının çalıştığı ortamı yönetir.
